@@ -1,0 +1,1056 @@
+{
+    "ALGOUSD": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "10000.0000",
+                "minPrice": "0.0010",
+                "tickSize": "0.0010"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00100000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "100000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USD"
+    },
+    "ATOMUSDT": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "10000.00000000",
+                "minPrice": "0.00100000",
+                "tickSize": "0.00100000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00100000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "200000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USDT"
+    },
+    "BATUSDT": {
+        "amount_traded": 627.23,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.00000000",
+                "minPrice": "0.00010000",
+                "tickSize": "0.00010000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "2120100.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": false,
+        "order_id": 15384741,
+        "position_open": false,
+        "price": 0.3188,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 14:06:02",
+        "type": "USDT"
+    },
+    "COMPUSDT": {
+        "amount_traded": 0.56946,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "100000.00000000",
+                "minPrice": "0.01000000",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00001000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "5219.23531479",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 10686174,
+        "position_open": false,
+        "price": 351.14,
+        "sell_limit": 0.015,
+        "time": "02/02/2021, 17:55:10",
+        "type": "USDT"
+    },
+    "DOGEUSDT": {
+        "amount_traded": 6281.0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.00000000",
+                "minPrice": "0.00000010",
+                "tickSize": "0.00000010"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "90000000.00000000",
+                "minQty": "1.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "500000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 17161979,
+        "position_open": false,
+        "price": 0.0318362,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 04:53:59",
+        "type": "USDT"
+    },
+    "EGLDUSDT": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "10000.00000000",
+                "minPrice": "0.00100000",
+                "tickSize": "0.00100000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00100000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "33849.25666597",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USDT"
+    },
+    "ENJUSD": {
+        "amount_traded": 306.9,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.10000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "2366900.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": true,
+        "order_id": 9987550,
+        "position_open": false,
+        "price": 0.3681,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 13:24:21",
+        "type": "USD"
+    },
+    "ETHUSDT": {
+        "amount_traded": 0.13101,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "100000.00000000",
+                "minPrice": "0.01000000",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "9000.00000000",
+                "minQty": "0.00001000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "50000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": true,
+        "order_id": 87825132,
+        "position_open": false,
+        "price": 1526.25,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 01:06:35",
+        "type": "USDT"
+    },
+    "HBARUSD": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "9000000.00000000",
+                "minQty": "0.10000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "10039048.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USD"
+    },
+    "HNTUSD": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USD"
+    },
+    "LINKUSD": {
+        "amount_traded": 8.12,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "1275600.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": true,
+        "order_id": 72995652,
+        "position_open": false,
+        "price": 24.62,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 13:01:41",
+        "type": "USD"
+    },
+    "LTCUSDT": {
+        "amount_traded": 0.70913,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "100000.00000000",
+                "minPrice": "0.01000000",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "9000.00000000",
+                "minQty": "0.00001000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "55000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 56152479,
+        "position_open": false,
+        "price": 149.45,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 01:07:55",
+        "type": "USDT"
+    },
+    "MANAUSD": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USD"
+    },
+    "MKRUSDT": {
+        "amount_traded": 0.0669,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "100000.00000000",
+                "minPrice": "0.01000000",
+                "tickSize": "0.01000000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00001000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": true,
+        "order_id": 2444852,
+        "position_open": false,
+        "price": 1643.81,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 05:02:14",
+        "type": "USDT"
+    },
+    "NANOUSD": {
+        "amount_traded": 55.89,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "275000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 10485735,
+        "position_open": false,
+        "price": 3.5777,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 03:17:23",
+        "type": "USD"
+    },
+    "NEOUSDT": {
+        "amount_traded": 8.197,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "10000.00000000",
+                "minPrice": "0.00100000",
+                "tickSize": "0.00100000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.00100000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "200000.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": true,
+        "order_id": 28301131,
+        "position_open": false,
+        "price": 24.394,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 13:02:35",
+        "type": "USDT"
+    },
+    "REPUSD": {
+        "amount_traded": 9.697,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "10000.0000",
+                "minPrice": "0.0100",
+                "tickSize": "0.0100"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "1000000.00000000",
+                "minQty": "0.00100000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "20148.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 5285955,
+        "position_open": true,
+        "price": 20.62,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 18:15:17",
+        "type": "USD"
+    },
+    "RVNUSD": {
+        "amount_traded": 8331.7,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.10000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "1275600.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": true,
+        "order_id": 6006407,
+        "position_open": false,
+        "price": 0.024,
+        "sell_limit": 0.015,
+        "time": "02/03/2021, 03:07:12",
+        "type": "USD"
+    },
+    "XLMUSDT": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.00000000",
+                "minPrice": "0.00001000",
+                "tickSize": "0.00001000"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "9000000.00000000",
+                "minQty": "0.10000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "11819800.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USDT"
+    },
+    "ZRXUSD": {
+        "amount_traded": 0,
+        "filters": [
+            {
+                "filterType": "PRICE_FILTER",
+                "maxPrice": "1000.0000",
+                "minPrice": "0.0001",
+                "tickSize": "0.0001"
+            },
+            {
+                "avgPriceMins": 5,
+                "filterType": "PERCENT_PRICE",
+                "multiplierDown": "0.2",
+                "multiplierUp": "5"
+            },
+            {
+                "filterType": "LOT_SIZE",
+                "maxQty": "900000.00000000",
+                "minQty": "0.01000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "applyToMarket": true,
+                "avgPriceMins": 5,
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.0000"
+            },
+            {
+                "filterType": "ICEBERG_PARTS",
+                "limit": 10
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "maxQty": "412400.00000000",
+                "minQty": "0.00000000",
+                "stepSize": "0.00000000"
+            },
+            {
+                "filterType": "MAX_NUM_ORDERS",
+                "maxNumOrders": 200
+            },
+            {
+                "filterType": "MAX_NUM_ALGO_ORDERS",
+                "maxNumAlgoOrders": 5
+            }
+        ],
+        "order_filled": false,
+        "position_open": false,
+        "price": 0,
+        "sell_limit": 0.015,
+        "time": 0,
+        "type": "USD"
+    }
+}
